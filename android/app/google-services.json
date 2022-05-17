@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781069625118",
+    "project_id": "chatbot-fqqm",
+    "storage_bucket": "chatbot-fqqm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781069625118:android:5e601ef484fd9a33a18b0f",
+        "android_client_info": {
+          "package_name": "com.example.chat_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781069625118-rvlve53jvmqphldto740mdkad06u23ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8AMysKJ3ULiF58R3Qun38dxIonH_dYPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781069625118-rvlve53jvmqphldto740mdkad06u23ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
