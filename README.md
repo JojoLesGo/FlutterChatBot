@@ -1,16 +1,20 @@
 # chat_bot
 
-Flutter chatbot with firebase backend for OncoHealth interview
+Flutter chatbot using dialogflow nlp with firebase backend for OncoHealth interview
 
-## Getting Started
+Completed Items:
+  Login screen using firebase
+  Chatbot screen using dialogflow
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ideal To-Dos:
+  Store chatbot conversations in firebase as per-user documents
+    Create screen to retrieve prior conversations and continue them
+  Unit Testing (>80% coverage)
+  Fully flesh out login page
+    Forgotten password retrieval
+    Account creation
+    Login states
+  Train dialogflow to handle a full conversation
+    Will be an "about Jordan" bot
+    Ask for resume details, hobbies, projects, etc..
+    Maybe: Add response images for specific questions
