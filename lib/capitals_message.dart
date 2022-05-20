@@ -46,7 +46,6 @@ class Capitals extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.end,
           children: <Widget>[
-//            Text(this.name, style: Theme.of(context).textTheme.subhead),
             Card(
                 color: Colors.green[400],
                 shape: const RoundedRectangleBorder(
